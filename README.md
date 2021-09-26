@@ -3,8 +3,6 @@ Guild Master
 Multi-purpose bot to manage your server, moderate your chat, manage your members, and more!
 This bot will get constant updates with new features! (it's still a work in progress)
 
-Most up to date info [here](https://guildmaster.app/docs/bot)
-
 | Command | Description | Permission |
 | --- | --- | --- |
 | gm!help | Shows commands the message author can use. | None |
