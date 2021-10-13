@@ -1,0 +1,4 @@
+{
+    "db_update_fail":"It looks like there was an Error updateing my database, try again.",
+    "db_get_fail":"It looks like there was an Error accessing my database, try again"
+}

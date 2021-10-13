@@ -3,6 +3,11 @@ Guild Master
 Multi-purpose bot to manage your server, moderate your chat, manage your members, and more!
 This bot will get constant updates with new features! (it's still a work in progress)
 
+Most up to date info [here](https://guildmaster.app/docs/bot)
+
+Commands:
+---------
+
 | Command | Description | Permission |
 | --- | --- | --- |
 | gm!help | Shows commands the message author can use. | None |
@@ -11,6 +16,9 @@ This bot will get constant updates with new features! (it's still a work in prog
 | gm!set-welcome-roles \[@roles\] | Add a role to the user when they join. Note: Up to 5 roles. | Manage Messages |
 | gm!set-prefix \[new prefix\] | Set a new prefix for the bot. Note: No spaces in the prefix. | Manage Messages |
 | gm!reaction-roles \[\(Emoji = @roles\)\] \[Your Message\]	 | Allow users to give themselves roles by reacting to a message. Syntax Is important for this command e.g. `gm!reaction-roles (🔴= @Red Role) (🔵 = @Blue Role) (🟢 = @Green Role) Pick a super cool role!` | Manage Messages, Manage Roles |
+
+\[ \] = A command variable. Do not include the "\[\]" 
+
 ### Things we are working on:
 *   Spam Protection: A way to stop spam and auto delete spam.
 *   Anti-Advertising: A way to remove links to other discord guilds.
